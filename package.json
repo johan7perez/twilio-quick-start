@@ -1,0 +1,20 @@
+{
+  "name": "twilio-quick-start",
+  "version": "1.0.0",
+  "description": "A simple app to send an SMS Using Twilio",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "twilio",
+    "express",
+    "nodejs"
+  ],
+  "author": "johan7perez@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "twilio": "3.42.2"
+  }
+}
